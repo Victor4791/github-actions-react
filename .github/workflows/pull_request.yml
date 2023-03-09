@@ -1,5 +1,5 @@
 name: Print Pull Request Context
-on: workflow-dispatch
+on: pull-request
 
 jobs:
   print:
